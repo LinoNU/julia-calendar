@@ -111,7 +111,7 @@ This project demonstrates:
 
 ## 📱 Try It Live
 
-🔗 **[Live Demo](https://[your-github-username].github.io/julia-calendar/)**
+🔗 **[Live Demo](https://LinoNu.github.io/julia-calendar/)**
 
 Works on:
 - 💻 Desktop (Chrome, Safari, Firefox, Edge)
